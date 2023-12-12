@@ -1,3 +1,5 @@
+
+https://github.com/adeliadhea06/Fragment_Tab/assets/115794875/5450cbde-c002-4018-90f8-73fe4af640ea
 # Fragment_Tab
 
 Nama : Dhea Dwi Adelia
@@ -358,6 +360,10 @@ Dengan ini untuk project fragmentnya sudah selesai. Sekarang kita akan tambahkan
 Selanjutnya kita melakukan Run untuk melihat hasil akhirnya
 
 # Hasil Run
+
+
+
+https://github.com/adeliadhea06/Fragment_Tab/assets/115794875/660dfa73-2ca7-4912-8f08-6d47090cfbff
 
 
 
